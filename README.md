@@ -7,9 +7,9 @@
 
 ### 💻 | ABOUT ME
 
-* 🇧🇷 Brazilian | 24 years
-* **Frontend Developer** specializing in modern JS frameworks.
-* Educational background from **Jala University**.
+* 🇧🇷 Brazilian | 25 years
+* **Frontend Developer** 
+* Student of **Jala University**.
 
 ---
 
